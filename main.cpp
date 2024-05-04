@@ -1,5 +1,4 @@
 // Bank Management System
-// Shoutout sa Indian kong pinanood para sa guide kung paano to gawin
 
 #include<iostream>
 #include<iomanip>
@@ -215,8 +214,6 @@ void delete_account(int account_number) {
         cout << "\nAccount number not found." << endl;
     }
 }
-
-
 
 
 void display_details(int n){
