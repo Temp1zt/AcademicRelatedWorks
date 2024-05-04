@@ -48,8 +48,6 @@ void Bank_Account::modify(){
         cin>>Money_Despoit;
 }
 
-
-
 void write_account(); //function to write record in binary file
 void display_details(int); //function to display account details given by user
 void delete_account(int); //function to delete record of files
